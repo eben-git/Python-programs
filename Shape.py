@@ -1,0 +1,6 @@
+adjective = input("Enter an adjective: ")
+player = input("Enter your favourite player: ")
+title = input("Enter the nickname for the player: ")
+print("Football is a " + adjective + " sport")
+print(player + " is the goat")
+print("He is known as the " + title + " of the champions league")
