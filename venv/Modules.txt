@@ -1,0 +1,5 @@
+they are basically used to import other python programs into the current one 
+these python files which have to be imported shpould be in the same file as the one being used to import it
+
+syntax:
+import file_name.function/variable/value/etc.
