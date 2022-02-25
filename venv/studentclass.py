@@ -5,3 +5,9 @@ class Student:
         self.age = age
         self.grade = grade
         self.is_absent = is_absent
+
+    def top_student(self):
+        if self.grade >= 9:
+            return True
+        else:
+            return False
